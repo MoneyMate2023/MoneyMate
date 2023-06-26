@@ -5,7 +5,7 @@ Moneymate is an online platform designed to help individuals or businesses manag
 Users can record their daily expenses, including bills, groceries, transportation, and entertainment. The website organizes and categorizes these expenses to provide a detailed breakdown of where money is being spent. Moneymate is a personal finance tracker! We understand that managing your finances effectively is essential for achieving your financial goals and maintaining a healthy financial life. Our application is designed to simplify and streamline your financial tracking process, empowering you to take control of your income and expenses. At our core, we are committed to providing you with a user-friendly and intuitive experience. Our team has worked diligently to create a responsive and interactive user interface that makes it easy to add, edit, and delete income and expense transactions. With just a few clicks, you can accurately record your financial activities and keep track of your current balance.
 
 Technology/Tool Stack Used:
-![image](https://github.com/MoneyMate2023/MoneyMate/assets/95526528/da5b129e-7497-484d-ac5f-1bbb8736fdb2)
+
 Frontend
 
 • HTML
