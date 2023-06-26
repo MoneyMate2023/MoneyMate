@@ -8,26 +8,26 @@ Technology/Tool Stack Used:
 
 Frontend
 
-• HTML
-• CSS
-• Bootstrap
-• JavaScript
+• HTML</br>
+• CSS</br>
+• Bootstrap</br>
+• JavaScript</br>
 
 Version Control and Collaboration:
 
-1.Git
-2.GitHub
+1.Git</br>
+2.GitHub</br>
 
 Code Editors and Development Tools:
 
-GitHub Copilot
-Code Editor: Visual Studio Code
+GitHub Copilot</br>
+Code Editor: Visual Studio Code</br>
 
 Additional Tools:
 
-Slack
-Trello
-Bing AI
-Microsoft 365
+Slack</br>
+Trello</br>
+Bing AI</br>
+Microsoft 365</br>
 
 
